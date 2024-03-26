@@ -2,8 +2,7 @@
 
 ## Overview
 
-This repo analyzes the lyrics of Elliott smith.
-
+This repo analyzes the lyrics of Elliott smith, specifically the sadness index of Elliott Smith's songs.
 
 ## File Structure
 
